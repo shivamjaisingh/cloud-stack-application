@@ -14,7 +14,7 @@ export default function Resume() {
 
   const personalInfo = {
     name: "Shivam Jai Singh",
-    title: "Cloud Engineer",
+    title: "Cloud Security",
     email: "ishivam3112@gmail.com",
     location: "Ottawa, Ontario",
     linkedin: "linkedin.com/in/shivamsinghshiva/",
